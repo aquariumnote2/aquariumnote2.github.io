@@ -10336,7 +10336,7 @@ header.masthead {
   padding-bottom: 100px;
   color: white;
   background: url("../assets/img/bg-pattern.png"), #7b4397;
-  background: url("../assets/img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430);
+  background: url("../assets/img/bg-pattern.png"), linear-gradient(to left, #008081, #008081);
 }
 header.masthead .header-content {
   max-width: 500px;
